@@ -2,11 +2,11 @@ Replace this with a list of your favorite things.
 :smile:
 
 
-- test
-- process
-- write
-  - this
-  - those
+- *test*
+- **process**
+- _write_
+  - __this__
+  - **_those_**
  
  
 - first
